@@ -10,18 +10,18 @@ The traditional university clearance process is often **time-consuming, paper-ba
 
 ### **Key Features**
 
-1. **Secure Authentication** — Separate login and access for students, department staff, registrars, and administrators.
-2. **Online Clearance Request** — Students can initiate and submit their clearance digitally.
-3. **Department Dashboards** — Library, Finance, Dormitory, Department, Property, and other offices manage their own clearance tasks.
-4. **Role-Based Access** — Users only access the information and functions relevant to their responsibilities.
-5. **Automated Clearance Workflow** — Clearance requests move through the required departments systematically.
-6. **Outstanding Issue Detection** — Identifies problems such as unpaid fees, borrowed books, or unreturned university property.
-7. **Issue Resolution** — Students can see what needs to be resolved before continuing their clearance.
-8. **Real-Time Status Tracking** — Students can see which departments are approved, pending, or require action.
-9. **Notifications** — Students receive updates when their clearance status changes or action is required.
-10. **Department Approval/Rejection** — Authorized staff can review and update clearance decisions.
-11. **Registrar Verification** — The registrar performs the final review after all required departments approve.
-12. **Digital Certificate Generation** — ClearanceFlow automatically generates the student's clearance certificate.
-13. **Certificate Verification** — Certificates can be verified using a unique ID or QR code.
-14. **Digital Records & History** — Completed clearances and certificates are stored for future reference.
-15. **Administration** — Administrators can manage users, departments, clearance requirements, and system activities.
+1. **Secure Authentication** : Separate login and access for students, department staff, registrars, and administrators.
+2. **Online Clearance Request** : Students can initiate and submit their clearance digitally.
+3. **Department Dashboards** : Library, Finance, Dormitory, Department, Property, and other offices manage their own clearance tasks.
+4. **Role-Based Access** : Users only access the information and functions relevant to their responsibilities.
+5. **Automated Clearance Workflow** : Clearance requests move through the required departments systematically.
+6. **Outstanding Issue Detection** : Identifies problems such as unpaid fees, borrowed books, or unreturned university property.
+7. **Issue Resolution** : Students can see what needs to be resolved before continuing their clearance.
+8. **Real-Time Status Tracking** : Students can see which departments are approved, pending, or require action.
+9. **Notifications** : Students receive updates when their clearance status changes or action is required.
+10. **Department Approval/Rejection** : Authorized staff can review and update clearance decisions.
+11. **Registrar Verification** : The registrar performs the final review after all required departments approve.
+12. **Digital Certificate Generation** : ClearanceFlow automatically generates the student's clearance certificate.
+13. **Certificate Verification** : Certificates can be verified using a unique ID or QR code.
+14. **Digital Records & History** : Completed clearances and certificates are stored for future reference.
+15. **Administration** : Administrators can manage users, departments, clearance requirements, and system activities.
